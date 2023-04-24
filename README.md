@@ -18,7 +18,7 @@ The dataset is data that I created which mimics the hospital pharmacy data that 
   2. Amiodarone, an antiarrhythmic drug, was involved in nearly 30% of the elevated INR cases.
   3. Vitamin K 1 mg oral form was the most commonly used antidote in the warfarin drug interaction.
   
-## Recommendations:
+## Recommendations (Answer to question 4):
 Pharmacists will need to monitor patients on warfarin and amiodarone carefully. If amiodarone is initiated in the hospital, warfarin dose should be decreased by 30-50%. Monitor for signs and symptoms of bleeding or an acute drop in hemoglobin (> 2g/dL). A larger supply of oral vitamin K 1 mg should be kept in the pharmacy.
 
 ## Tools used during analysis:
